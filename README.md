@@ -12,9 +12,11 @@ In Clustering.R  9th line:
 **setwd("C:/Users/Kartikeya/Desktop/ALDA Project/Dataset/training_set_small/")**
 
 In Leave_one_out.R 9th line:
+
 **setwd("C:/Users/Kartikeya/Desktop/ALDA Project/Dataset/training_set_small/")**
 
 In Rating_prediction.R, 44th line:
+
 **setwd("C:/Users/Kartikeya/Desktop/ALDA Project/Dataset/training_set_small/")**
 
 ###2.Install perl on your computer  
@@ -24,4 +26,4 @@ In Clustering.R,the 9th line:
 
 Change the path for perl to your local path.
 ###3. Run Clustering.R
-###4. Test_RMSE.R
+###4. Run Test_RMSE.R
