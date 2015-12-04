@@ -38,3 +38,5 @@ In Clustering.R,the 9th line:
 Change the path for perl to your local path.
 ###3. Run Clustering.R
 ###4. Run Test_RMSE.R
+
+The file small 1000.Rdata has the results of the computations. Please check for results or run the complete code for computation on Professor/TA defined data set.
