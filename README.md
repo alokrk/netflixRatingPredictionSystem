@@ -1,6 +1,17 @@
 # netflixRatingPredictionSystem
 Creation of a prediction system to predict rating of a movie by a user.
 ## To run the code:
+
+Brief Note about files:
+
+1.Clustering.R - Code to form clusters of similar users and movies
+
+2.Leave_one_out.R - Code to perform leave one out cross validation
+
+3.Rating_prediction.R -  Code to predict rating for a movie- user pair
+
+4.Test_RMSE.R - Sample code which predicts ratings from 10 selected movie-user pairs (can be changed, for different test cases).
+
 ###1.Download the dataset [training_set_small] and [movie_titles_small] from the google drive.
 Change the path to your local path to movie_titles_small.xls and training_set_small in the following places.
 In Clustering.R  9th line:
