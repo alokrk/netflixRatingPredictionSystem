@@ -12,5 +12,4 @@ In Clustering.R,the 9th line:
 
 Change the path for perl to your local path.
 ###3. Run Clustering.R
-###4. Run Leave_one_out.R
-###5. Run Rating_Prediction.R
+###4. Test_RMSE.R
