@@ -1,7 +1,7 @@
 # netflixRatingPredictionSystem
 Creation of a prediction system to predict rating of a movie by a user.
 ## To run the code:
-###1.Download the dataset training_set_small and movie_titles_small from the google drive.
+###1.Download the dataset [training_set_small] and [movie_titles_small] from the google drive.
 Change the path to your local path to movie_titles_small.xls and training_set_small in the following places.
 In Clustering.R  9th line:
 
