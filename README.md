@@ -8,6 +8,7 @@ The file small 1000.Rdata has the results of the computations. Please check for 
 Brief Note about files:
 
 1.Clustering.R - Code to form clusters of similar users and movies
+Library gdata has been added.
 
 2.Leave_one_out.R - Code to perform leave one out cross validation
 
